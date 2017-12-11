@@ -11,6 +11,7 @@
 
   excludesfile = ~/.gitignore
   pager = less -F -X
+	editor = atom --wait
 
 [fetch]
 
@@ -32,3 +33,5 @@
 [user]
 
   useconfigonly = true
+	email = loreleine.leclerc@decathlon.com
+	name = Loréleine Le Clerc
